@@ -1,6 +1,6 @@
 # BBEH Linguini
 
-This task comes from [Sanches et al. 2024](https://arxiv.org/abs/2409.12126)
+This task comes from [Sánchez et al. 2024](https://arxiv.org/abs/2409.12126)
 where the problems are extracted from the International Linguistic Olympiad
 (IOL). The original dataset is available
 [here](https://github.com/facebookresearch/linguini). According to the original
