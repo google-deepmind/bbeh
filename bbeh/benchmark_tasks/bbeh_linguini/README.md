@@ -14,3 +14,6 @@ the Linguini problems, namely *translation*, *fill blanks*, *num to text* and
 answers. For example, the *fill blanks* questions have multiple blanks that need
 to be filled. We create questions that have a single answer by randomly
 selecting one of those blanks and only asking the model to fill that one.
+
+**Note:** We have found that there are 7 duplicate (and problematic) examples
+in our set, due to issues in post-processing the original dataset.

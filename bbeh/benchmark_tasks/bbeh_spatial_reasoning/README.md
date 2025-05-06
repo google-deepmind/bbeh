@@ -37,3 +37,5 @@ the agent sees the **shampoo** again so it can reason backward from this point
 to figure out which vertex it has been at in the previous steps. These
 information can also be used to determine the vertex V which must then be used
 to solve the problem when the second jump to V is made.
+
+**Note:** We have found that there is one duplicate example in our set.

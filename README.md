@@ -9,6 +9,8 @@ Large language models (LLMs) are increasingly deployed in everyday applications,
 
 ## Leaderboard
 
+BBEH has a full version with 4520 examples, and a mini version with 460 examples.
+
 Click [here](leaderboard.md) to see the leaderboard. Feel free to also contribute results for models not already on the leaderboard.
 
 ## Evaluation
